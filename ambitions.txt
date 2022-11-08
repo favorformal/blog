@@ -1,0 +1,18 @@
+Bachelor's Degree
+    - 4.0 GPA
+
+Data Science
+    - Grounding:
+        Salesforce Administrator
+        Salesorce Pardot Specialist
+        Salesforce Platform App Builder
+        Salesforce Advanced Administrator
+        Salesforce Platform Developer I 
+        Salesforce Platform Developer II 
+
+Math
+    - Starting from the ground up to calculus
+
+
+Web Development
+    - Fullstack Development
